@@ -528,7 +528,8 @@
  zGhostex Clicker Has Been Ran In This Instance:::2013/07/20:17:35:28
  Zoomin Client Has Been Ran In This Instance:::!2021/03/09:19:32:42!0!
  Zylowh Client Has Been Ran In This Instance:::2016/07/17:22:06:37
- Dope Clicker Has Been Ran In This Instance:::2050/02/08:17:29:26Anydesk simple autoclicker = !2017/06/01:13:26:40!
+ Dope Clicker Has Been Ran In This Instance:::2050/02/08:17:29:26
+Anydesk simple autoclicker = !2017/06/01:13:26:40!
 Runtimebroker Autoclicker Has Been Ran In This Instance:::!2019/12/13:19:47:33!
 Vepe Autoclicker Has Been Ran In This Instance:::!2017/11/02:07:46:04! 
 MindClient Has Been Ran In This Instance:::!2041/10/08:08:07:41!
