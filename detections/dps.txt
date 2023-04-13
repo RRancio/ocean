@@ -1,5 +1,6 @@
-  60Ping Meme Client found in DPS service. (Out of instance):::2020/05/30:11:22:28
- A String Cleaner found in DPS service. (Out of instance):::2010/05/30:13:06:42
+ 60Ping Meme Client found in DPS service. (Out of instance):::2020/05/30:11:22:28
+test detection:::a 
+A String Cleaner found in DPS service. (Out of instance):::2010/05/30:13:06:42
  A String Cleaner found in DPS service. (Out of instance):::2018/09/23:17:01:28
  A String Cleaner found in DPS service. (Out of instance):::2019/05/25:15:27:07
  A String Cleaner found in DPS service. (Out of instance):::2019/05/25:15:30:08
