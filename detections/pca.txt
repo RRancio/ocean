@@ -1,7 +1,6 @@
 Traces of Process Hacker (In instance) [] PcaSvc Memory:::0x1ab000
 Traces of Lithium (Public Source) (In instance) [] PcaSvc Memory:::0xe5000
 Traces of Isolation Client (In instance) [] PcaSvc Memory:::0x86000
-Traces of Isolation Client (In instance) [] PcaSvc Memory:::a
 Traces of Boris Clicker (In instance) [] PcaSvc Memory:::0xd8000
 Traces of Glock ClickerCracked (In instance) [] PcaSvc Memory:::0xa2000
 Traces of Prism Hack (In instance) [] PcaSvc Memory:::0x983000
