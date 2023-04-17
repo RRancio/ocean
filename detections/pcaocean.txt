@@ -1,0 +1,268 @@
+Process Hacker:::0x1ab000
+Lithium (Public Source):::0xe5000
+Isolation Client:::0x86000
+Boris Clicker:::0xd8000
+Glock ClickerCracked:::0xa2000
+Prism Hack:::0x983000
+MangoLite Client:::0xc6000
+Zoomin Client:::0x65000
+Pulsive Client:::0x99b000
+Obsecure Client:::0x59000
+Krypton Public:::0xa17000
+Ice Tea Client:::0xa1000
+Crypt Cracked:::0x19ac000
+Ettelen Client / Fake Discord:::0x18a000
+Epic client:::0x117000
+Murphy Clicker:::0x65c000
+Koid (Latest):::0x1c3000
+Supremacy Clicker:::0x6d000
+Isolation Clicker:::0x163000
+Vega Clicker:::0x99000
+Axenta Clicker:::0xa6000
+SirHurt Exploit:::0xc1a000
+SirHurt Exploit:::0x10c0000
+SirHurt Exploit:::0x8ce000
+Iridium Ghost:::0x13c2000
+FastClicker:::0x7d000
+Lunar Client Clicker:::0x588000
+mangoclicker:::0x1c2000
+Mangoclicker lite:::0xc4000
+Zyro Cracked Cheat:::0x1a8000
+Generic Clicker:::0x3d000
+Dope AutoClicker:::0x536000
+Spotify Clicker:::0x208000
+Calculator AutoClicker:::0xe000
+Koid Client:::0x1d3000
+GhostByttes:::0xae000
+Itami Ghost:::0xb1000
+Vape V4 edited:::0x128b000
+Indigo Client:::0x87000
+Generic Cheat:::0xab000
+Ambrosial Cheat:::0xfe6000
+Eclipse Client:::0x4f000
+Eternium:::0xe8000
+Low Level Cheat:::0x15000
+Strike Cheat:::0x512000
+Smoke Clicker:::0x2dc000
+Koid Client #3:::0x00000000001BE600
+Koid Client #2:::0xbb7eec80
+Koid Client #1:::00005abece11f9d282ec009bf441f132676344f1ede2
+Mye Clicker #5:::0x00000000000DD400
+Mye Clicker #4:::6.0.8.0
+Mye Clicker #3:::0000d3fed35ced6a1258e3dec494f18bb2e9939d83a2
+Mye Clicker #2:::0xdd400
+Mye Clicker #1:::0x10227655
+Ettelen Client Crack:::0x0000000000258000
+Koid Client:::f12990ae8d2cf834
+Mind Ghost Client:::81d2ae80f19f9e89
+Lean Memory Client:::d31fe151598d979a
+Cucklord Tool #2:::fb1fb14a74b35359
+Cucklord Tool #1:::4beb819a35d16568
+Choppa AutoClicker:::dff71a0df3bbd3fb
+Chill Clients:::9ae913466a547302
+Apollo Clicker #3:::f8381065cbc33f04
+Apollo Clicker #2:::9aae2fb74fc2394c
+Apollo Clicker #1:::cf051a564e81d956
+Dream Client #1:::0x0ee4000
+Dream Client #2:::0xee4000
+Grape AutoClicker:::873b3eee23f89db4
+Generic AutoClicker:::fec688ab44f59931
+Generic AutoClicker:::7da44973402d8630
+Generic AutoClicker:::6d59aa2631e59e81
+Generic AutoClicker:::e57532fb1fa2cbd9
+Generic AutoClicker:::c8077dc8069d0be1
+Generic AutoClicker:::9bcbefb4b44b98e5
+Generic AutoClicker:::ac5758651f795247
+Generic AutoClicker:::f1ac9a396060ef88
+Generic AutoClicker:::581e1a68934d79e2
+Generic AutoClicker:::688802121d64a51d
+Generic AutoClicker:::e0fdb3307f086257
+Generic AutoClicker:::a5d91a913a162539
+Generic AutoClicker:::c00f5734c0224544
+Generic AutoClicker:::ab98ce44e4c1bdb5
+Generic AutoClicker:::c04943948835b38b
+Generic AutoClicker:::b26ac46932ab5d72
+Generic AutoClicker:::768556adae1eb10f
+Generic AutoClicker:::90c7c505834d20f0
+Generic AutoClicker:::e1a005ac6859366e
+Generic AutoClicker:::3b73540181e7ca68
+Generic AutoClicker:::5776069cb3c57825
+Generic AutoClicker:::4ba240fdc71809f1
+Generic AutoClicker:::f12743b3878b040b
+Generic AutoClicker:::54e4ca807b66cd9c
+Generic AutoClicker:::397449acf57bc92c
+Generic AutoClicker:::e532bd17abb0f49a
+Generic AutoClicker:::b34196335cdd4687
+Generic AutoClicker:::88b614f3c54573db
+Generic AutoClicker:::6fff45339aaa987a
+Generic AutoClicker:::a4acbdfcefedd0e7
+Generic AutoClicker:::c5d1e4a986384717
+Generic AutoClicker:::0a2f968dac47e122
+Generic AutoClicker:::a8d2db26678f7d8f
+Generic AutoClicker:::bebdd885b9857673
+Generic AutoClicker:::f0ca729f4362c244
+Generic AutoClicker:::5f23ccc8b895395f
+Generic AutoClicker:::31af775d5035642e
+Generic AutoClicker:::53613c9b36cd2212
+Generic AutoClicker:::4bd6cc41718baaec
+Generic AutoClicker:::5f10e81a1e2e6c46
+Generic AutoClicker:::10da1338711ac4bc
+Generic AutoClicker:::925f9fd66949fd82
+Generic AutoClicker:::f27f2164ef9f5b11
+Generic AutoClicker:::0c302e9c96210032
+Generic AutoClicker:::a24df0454da14125
+Generic AutoClicker:::b34031a4dcabc957
+Generic AutoClicker:::9b48deee903c453d
+Generic AutoClicker:::150c96c92f45680c
+Generic AutoClicker:::58ca3dc1d8458387
+Generic AutoClicker:::62693c077cf44cc7
+Generic AutoClicker:::b70ef246953baf10
+Generic AutoClicker:::98ee7fafa8ab4895
+Generic AutoClicker:::ad608a706fdb24f6
+Generic AutoClicker:::2dd8da4c5fd87107
+Generic AutoClicker:::4b483a67f3fe08f0
+Generic AutoClicker:::8aee1a4fa07e5cdd
+Generic AutoClicker:::29bd02b88403461e
+Generic AutoClicker:::171ecc9ad100d2a2
+Generic AutoClicker:::469b98fb7462a610
+Generic AutoClicker:::0fcb8b93c2c6e24c
+Generic AutoClicker:::2033c032112a4ead
+Generic AutoClicker:::d506de5d104d6de7
+Generic AutoClicker:::bc97f6d4f532b847
+Generic AutoClicker:::54520bd1ffdd2cb5
+Generic AutoClicker:::73827c1fe65fd3a5
+Generic AutoClicker:::3f9f4fba621431ad
+Generic AutoClicker:::786032660786af51
+Glock AutoClicker:::45ef4edc4c64024e
+Ghostbytes Client:::a7e6f4923271e0be
+Ghostbytes Client:::952c8d937f64782a
+Ecstasy Client:::7b4d536f3a723671
+Dragon Memory Client:::19f3e7ffce3b2c72
+Xenos Injector:::c4bce1f9109dc4d0
+Generic String Cleaner:::6766d41c93d1552d
+Generic String Cleaner:::5fa868ff1f0aa96f
+Sosa AutoClicker:::788e0c0dea43d792
+Perereca AutoClicker:::1deddadf8ecd0ce5
+TeamSpeak Ban Bypasser:::b2c64b40d1884ec7
+Tap Client:::43046f2b9007ce3c
+Apollo Status #6:::x5ca83fd7
+Apollo Status #5:::0x7dd400
+Apollo Status #4:::0x00000000007DD400
+Apollo Status #3:::00002d4876e1e144c8a32dac4d3086907c283c0e8273
+Axenta #6:::0x3a6000
+Axenta #5:::0x78c000
+Axenta #4:::0x00000000003A6000
+Axenta #3:::0xe8e043fe
+Axenta #2:::0000b7439e04225e5f0aeabbcf7e75c5c15799e012b3
+Axenta #1:::000658c84c61a0df84027fe32e02a9c0b1e900000000
+Encephalon:::00006f93f72e4b4b1219e0fe9b18192fd67b43666460
+Icetea Crack #3:::0x5bfa00
+Icetea Crack #2:::0xd208f658
+Icetea Crack #1:::0x5c6161
+Itami 1.4 #2:::0x70000
+Itami 1.4 #1:::0x000000000006B800
+Itori Clicker #3:::0x148000
+Itori Clicker #2:::0x9dc00
+Itori Clicker #1:::0x0000000000095C00
+P0rn Clicker #2:::t<H9G0u1A;
+P0rn Clicker #1:::L$8H!|$8
+VeraCrypt #2:::0x060a000
+VeraCrypt #1:::0x60a000
+VeraCrypt Portable #2:::0x75f000
+VeraCrypt Portable #1:::0x075f000
+Twirled Macro Switch #2:::0xec000
+Twirled Macro Switch #1:::0x00ec000
+AskAdmin Application Disabler #2:::0xc6000
+AskAdmin Application Disabler #1:::0xeb000
+Katana:::0x0000000000 107400
+Whiteout #3:::E$<e234x
+Whiteout #2:::dT81j-i
+Whiteout #1:::5@OPhd
+Generic AutoClicker:::64189785d4252271
+Generic AutoClicker:::ca6f9c18c0cb8207
+Generic AutoClicker:::5b40c7dc8c732760
+Generic AutoClicker:::b308c4d1a35c87e1
+Generic AutoClicker:::bc036df6f2c45dd8
+Generic AutoClicker:::1ca6846986f3c9f3
+Generic AutoClicker:::4bb78346e35e58ff
+Generic AutoClicker:::31d106bb000b8e5f
+Generic AutoClicker:::c50ab8e8f6d34432
+Generic AutoClicker:::44c8d514af4cce5cf
+Generic AutoClicker:::72d0fcd51ec83492
+Generic AutoClicker:::090c1a08fed50c21
+Generic AutoClicker:::2d235fbc32a4f5f7
+Generic AutoClicker:::fec688ab44f59931
+Generic AutoClicker:::7da44973402d8630
+Generic AutoClicker:::6d59aa2631e59e81
+Generic AutoClicker:::e57532fb1fa2cbd9
+Generic AutoClicker:::c8077dc8069d0be1
+Generic AutoClicker:::9bcbefb4b44b98e5
+Generic AutoClicker:::ac5758651f795247
+Generic AutoClicker:::f1ac9a396060ef88
+Generic AutoClicker:::581e1a68934d79e2
+Generic AutoClicker:::688802121d64a51d
+Generic AutoClicker:::e0fdb3307f086257
+Generic AutoClicker:::a5d91a913a162539
+Generic AutoClicker:::c00f5734c0224544
+Generic AutoClicker:::ab98ce44e4c1bdb5
+Generic AutoClicker:::c04943948835b38b
+Generic AutoClicker:::b26ac46932ab5d72
+Generic AutoClicker:::768556adae1eb10f
+Generic AutoClicker:::90c7c505834d20f0
+Generic AutoClicker:::e1a005ac6859366e
+Generic AutoClicker:::3b73540181e7ca68
+Generic AutoClicker:::5776069cb3c57825
+Generic AutoClicker:::4ba240fdc71809f1
+Generic AutoClicker:::f12743b3878b040b
+Generic AutoClicker:::54e4ca807b66cd9c
+Generic AutoClicker:::397449acf57bc92c
+Generic AutoClicker:::e532bd17abb0f49a
+Generic AutoClicker:::b34196335cdd4687
+Generic AutoClicker:::88b614f3c54573db
+Generic AutoClicker:::6fff45339aaa987a
+Generic AutoClicker:::a4acbdfcefedd0e7
+Generic AutoClicker:::c5d1e4a986384717
+Generic AutoClicker:::0a2f968dac47e122
+Generic AutoClicker:::a8d2db26678f7d8f
+Generic AutoClicker:::bebdd885b9857673
+Generic AutoClicker:::f0ca729f4362c244
+Generic AutoClicker:::5f23ccc8b895395f
+Generic AutoClicker:::31af775d5035642e
+Generic AutoClicker:::53613c9b36cd2212
+Generic AutoClicker:::4bd6cc41718baaec
+Generic AutoClicker:::5f10e81a1e2e6c46
+Generic AutoClicker:::10da1338711ac4bc
+Generic AutoClicker:::925f9fd66949fd82
+Generic AutoClicker:::f27f2164ef9f5b11
+Generic AutoClicker:::0c302e9c96210032
+Generic AutoClicker:::b34031a4dcabc957
+Generic AutoClicker:::9b48deee903c453d
+Generic AutoClicker:::150c96c92f45680c
+Generic AutoClicker:::58ca3dc1d8458387
+Generic AutoClicker:::62693c077cf44cc7
+Generic AutoClicker:::b70ef246953baf10
+Generic AutoClicker:::98ee7fafa8ab4895
+Generic AutoClicker:::ad608a706fdb24f6
+Generic AutoClicker:::2dd8da4c5fd87107
+Generic AutoClicker:::4b483a67f3fe08f0
+Generic AutoClicker:::8aee1a4fa07e5cdd
+Generic AutoClicker:::29bd02b88403461e
+Generic AutoClicker:::171ecc9ad100d2a2
+Generic AutoClicker:::469b98fb7462a610
+Generic AutoClicker:::0fcb8b93c2c6e24c
+Generic AutoClicker:::2033c032112a4ead
+Generic AutoClicker:::d506de5d104d6de7
+Generic AutoClicker:::bc97f6d4f532b847
+Generic AutoClicker:::54520bd1ffdd2cb5
+Generic AutoClicker:::73827c1fe65fd3a5
+Generic AutoClicker:::3f9f4fba621431ad
+Generic AutoClicker:::786032660786af51
+Generic AutoClicker:::1deddadf8ecd0ce5
+Generic AutoClicker:::f8381065cbc33f04
+Generic AutoClicker:::9aae2fb74fc2394c
+Generic AutoClicker:::cf051a564e81d956
+Generic AutoClicker:::873b3eee23f89db4
+Generic AutoClicker:::45ef4edc4c64024e
+Generic AutoClicker:::dff71a0df3bbd3fb
+Generic AutoClicker:::788e0c0dea43d792
+Generic AutoClicker:::a24df0454da14125
