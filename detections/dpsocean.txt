@@ -9,6 +9,7 @@ A String Cleaner:::2010/05/30:13:06:42
  A String Cleaner:::2020/01/05:12:15:27
  A String Cleaner:::2020/05/16:20:19:46
  AirClicker:::2018/04/30:22:07:35
+Akira Client:::!2022/12/20:18:11:46!
  AntiSS Tool:::2021/03/14:21:10:14!1dbd22!
  Anydesk Resolver:::2056/05/25:06:57:41
  Ape Clicker:::2020/10/21:06:47:57
