@@ -266,3 +266,25 @@ Generic AutoClicker:::45ef4edc4c64024e
 Generic AutoClicker:::dff71a0df3bbd3fb
 Generic AutoClicker:::788e0c0dea43d792
 Generic AutoClicker:::a24df0454da14125
+Isolation Client:::0x86000
+Boris Clicker:::0xd8000
+Glock ClickerCracked:::0xa2000
+Spotify ClickerPublic:::0x208000
+Prism Hack:::0x983000
+MangoLite Client:::0xc6000
+Meth Client:::0x2c000
+Zoomin Client:::0x65000
+Pulsive Client:::0x99b000
+Obsecure Client:::0x59000
+Krypton Public:::0xa17000
+Ice Tea Client:::0xa1000
+Crypt Cracked:::0x19ac000
+Ettelen Client / Fake Discord:::0x18a000
+Epic client:::0x117000
+Murphy Clicker:::0x65c000
+Koid (Latest):::0x1c3000
+Lithium (Public Source):::0xe5000
+Supremacy Clicker:::0x6d000
+Isolation Clicker:::0x163000
+Vega Clicker:::0x99000
+Axenta Clicker:::0xa6000
