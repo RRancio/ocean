@@ -1,4 +1,187 @@
-Process Hacker:::0x1ab000
+Mango Clicker:::0xec000
+Isolation Client:::0x86000
+Boris Clicker:::0xd8000
+Prism Hack:::0x983000
+MangoLite Client:::0xc6000
+Zoomin Client:::0x65000
+Pulsive Client:::0x99b000
+Obsecure Client:::0x59000
+Krypton Public:::0xa17000
+Ice Tea Client:::0xa1000
+Crypt Cracked:::0x19ac000
+Epic client:::0x117000
+Murphy Clicker:::0x65c000
+Koid (Latest):::0x1c3000
+Lithium (Public Source):::0xe5000
+Supremacy Clicker:::0x6d000
+Isolation Clicker:::0x163000
+Vega Clicker:::0x99000
+Slinkware:::0x9c000
+Hermotet V0.4 Client:::0x202000
+Mango Clicker 5.1.1:::0x1c2000
+Hermotet V 0.5 Beta Client:::0x202000
+Pulsive Ghost Client:::0x99b000
+Epic Ghost Client:::0x117000
+Zoomin Ghost Client:::0x65000
+Lunar Client Clicker:::0x588000
+Zoom Clicker:::0xde000
+OBS Studio AutoClicker:::0x1c000
+KryptonDL Client:::0xa17000
+LEAKER Generic Ghost Client:::0x9000
+Generic Ghost Client:::0x49000
+ettelen Ghost Client:::0x18a000
+ettelen Ghost Client:::0x18a000
+CuckLord Cracked Ghost Client:::0xb7a000
+doge Client:::0x35353600
+Pop Rid Client:::0x6c000
+Generic Ghost Client :::0x29c000
+Spotify Clicker:::0x208000
+Twirled Macro Switch :::0xec000
+Twirled Macro Switch :::0x00ec000
+VeraCrypt:::0x060a000
+VeraCrypt:::0x60a000
+VeraCrypt Portable:::0x75f000
+VeraCrypt Portable:::0x075f000
+UNICORN LITE (Latest):::0x9c000
+Vape V4 :::0x12e3000
+Lithium (Public Source):::0xe5000
+Isolation Client:::0x86000
+Boris Clicker:::0xd8000
+Glock ClickerCracked:::0xa2000
+Prism Hack:::0x983000
+Zoomin Client:::0x65000
+Pulsive Client:::0x99b000
+Obsecure Client:::0x59000
+Krypton Public:::0xa17000
+Ice Tea Client:::0xa1000
+Crypt Cracked:::0x19ac000
+Ettelen Client / Fake Discord:::0x18a000
+Epic client:::0x117000
+Murphy Clicker:::0x65c000
+Supremacy Clicker:::0x6d000
+Isolation Clicker:::0x163000
+Vega Clicker:::0x99000
+Axenta Clicker:::0xa6000
+SirHurt Exploit:::0xc1a000
+SirHurt Exploit:::0x10c0000
+SirHurt Exploit:::0x8ce000
+Iridium Ghost:::0x13c2000
+FastClicker:::0x7d000
+Lunar Client Clicker:::0x588000
+Mangoclicker lite:::0xc4000
+Zyro Cracked Cheat:::0x1a8000
+Generic Clicker:::0x3d000
+Dope AutoClicker:::0x536000
+Spotify Clicker:::0x208000
+GhostByttes:::0xae000
+Itami Ghost:::0xb1000
+Vape V4 edited:::0x128b000
+Indigo Client:::0x87000
+Ambrosial Cheat:::0xfe6000
+Eclipse Client:::0x4f000
+Eternium:::0xe8000
+Low Level Cheat:::0x15000
+Strike Cheat:::0x512000
+Smoke Clicker:::0x2dc000
+Runtimebroker Clicker:::0x9000
+Mango Clicker 5.1.2:::0xee000
+Mango Clicker 5.1.3:::0xee000
+Mango Clicker 5.1.4:::0xee000
+nig clicker:::0x68000
+Mango Clicker 5.2.1:::0xfe000
+Mango Clicker 5.2.4:::0xfe000
+Mango Clicker:::0xec000
+Isolation Client:::0x86000
+Boris Clicker:::0xd8000
+Prism Hack:::0x983000
+MangoLite Client:::0xc6000
+Zoomin Client:::0x65000
+Pulsive Client:::0x99b000
+Obsecure Client:::0x59000
+Krypton Public:::0xa17000
+Ice Tea Client:::0xa1000
+Crypt Cracked:::0x19ac000
+Epic client:::0x117000
+Murphy Clicker:::0x65c000
+Koid (Latest):::0x1c3000
+Lithium (Public Source):::0xe5000
+Supremacy Clicker:::0x6d000
+Isolation Clicker:::0x163000
+Vega Clicker:::0x99000
+Slinkware:::0x9c000
+Hermotet V0.4 Client:::0x202000
+Mango Clicker 5.1.1:::0x1c2000
+Hermotet V 0.5 Beta Client:::0x202000
+Pulsive Ghost Client:::0x99b000
+Epic Ghost Client:::0x117000
+Zoomin Ghost Client:::0x65000
+Lunar Client Clicker:::0x588000
+Zoom Clicker:::0xde000
+OBS Studio AutoClicker:::0x1c000
+KryptonDL Client:::0xa17000
+LEAKER Generic Ghost Client:::0x9000
+Generic Ghost Client:::0x49000
+ettelen Ghost Client:::0x18a000
+ettelen Ghost Client:::0x18a000
+CuckLord Cracked Ghost Client:::0xb7a000
+doge Client:::0x35353600
+Pop Rid Client:::0x6c000
+Generic Ghost Client :::0x29c000
+Spotify Clicker:::0x208000
+Twirled Macro Switch :::0xec000
+Twirled Macro Switch :::0x00ec000
+VeraCrypt:::0x060a000
+VeraCrypt:::0x60a000
+VeraCrypt Portable:::0x75f000
+VeraCrypt Portable:::0x075f000
+UNICORN LITE (Latest):::0x9c000
+Vape V4 :::0x12e3000
+Lithium (Public Source):::0xe5000
+Isolation Client:::0x86000
+Boris Clicker:::0xd8000
+Glock ClickerCracked:::0xa2000
+Prism Hack:::0x983000
+Zoomin Client:::0x65000
+Pulsive Client:::0x99b000
+Obsecure Client:::0x59000
+Krypton Public:::0xa17000
+Ice Tea Client:::0xa1000
+Crypt Cracked:::0x19ac000
+Ettelen Client / Fake Discord:::0x18a000
+Epic client:::0x117000
+Murphy Clicker:::0x65c000
+Supremacy Clicker:::0x6d000
+Isolation Clicker:::0x163000
+Vega Clicker:::0x99000
+Axenta Clicker:::0xa6000
+SirHurt Exploit:::0xc1a000
+SirHurt Exploit:::0x10c0000
+SirHurt Exploit:::0x8ce000
+Iridium Ghost:::0x13c2000
+FastClicker:::0x7d000
+Lunar Client Clicker:::0x588000
+Mangoclicker lite:::0xc4000
+Zyro Cracked Cheat:::0x1a8000
+Generic Clicker:::0x3d000
+Dope AutoClicker:::0x536000
+Spotify Clicker:::0x208000
+GhostByttes:::0xae000
+Itami Ghost:::0xb1000
+Vape V4 edited:::0x128b000
+Indigo Client:::0x87000
+Ambrosial Cheat:::0xfe6000
+Eclipse Client:::0x4f000
+Eternium:::0xe8000
+Low Level Cheat:::0x15000
+Strike Cheat:::0x512000
+Smoke Clicker:::0x2dc000
+Runtimebroker Clicker:::0x9000
+Mango Clicker 5.1.2:::0xee000
+Mango Clicker 5.1.3:::0xee000
+Mango Clicker 5.1.4:::0xee000
+nig clicker:::0x68000
+Mango Clicker 5.2.1:::0xfe000
+Mango Clicker 5.2.4:::0xfe000
 Lithium (Public Source):::0xe5000
 Isolation Client:::0x86000
 Boris Clicker:::0xd8000
