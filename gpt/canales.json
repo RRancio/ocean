@@ -1,0 +1,358 @@
+{
+    "\ud83d\udcbb\u250aScreensharing": {
+        "\ud83c\udf10\ufe19public-methods": 861745258836000809,
+        "\u27bf\ufe19beginner": 1036415722051616850
+    },
+    "\ud83d\udd12\u250aSecurity": {
+        "\ud83d\udcbb\u2503windows-sandbox": 1013566171372597378,
+        "\ud83d\udee1\u2503malware-check": 1013541451315019938,
+        "\u2622\u2503url-analysis": 1014221900119015526
+    },
+    "\ud83e\udda0\u250a Antivirus": {
+        "\ud83e\udda0\ufe19avg": 1026628937259962398,
+        "\ud83e\udda0\ufe19malwarebytes": 1026629128700567614,
+        "\ud83e\udda0\ufe19avast": 1026661737849684038
+    },
+    "\u3030\u250aStrings": {
+        "\ud83c\udf10\ufe19public-strings": 946589250621677618,
+        "\u2797\ufe19regex": 1008861770661777569
+    },
+    "\ud83d\udd2e\u250aBoosters & VIPs": {
+        "\ud83d\udc8d\u2503boost-announcements": 1027703461720117258,
+        "\ud83c\udf2b\u2503chat": 967895222279356476,
+        "\ud83d\udd2e\ud83e\ude9f\u2503osf": 1003678638090240040,
+        "\ud83d\udd2e\ud83e\ude9f\u2503regex": 1038211612730986537,
+        "\ud83d\udd2e\ud83e\ude9f\u2503evtx-p": 1038212139384582194,
+        "\ud83d\udd2e\ud83e\ude9f\u2503mp": 1038234906536460288,
+        "\ud83d\udd2e\ud83e\ude9f\u2503ramdumpexplorer": 1095834823249100873,
+        "\ud83d\udd2e\ud83e\ude9f\u2503cmd-exec-commands": 1086016575515131924,
+        "\ud83d\udd2e\ud83e\ude9f\u2503ruedas": 1094012231064223805
+    },
+    "\ud83c\udd98\u250aissues": {
+        "\ud83c\udd98\u2503console-colors": 955231178703638598,
+        "\ud83c\udd98\u2503event-viewer": 886742448439713822,
+        "\ud83c\udd98\u2503excluded-path": 922916494956978226,
+        "\ud83c\udd98\u2503folder-permissions": 950887530172137523,
+        "\ud83c\udd98\u2503disabled-pca": 955945146187395082,
+        "\ud83c\udd98\u2503cmd": 901268460565307432,
+        "\ud83c\udd98\u2503microsoft-store": 918969617702068224,
+        "\ud83c\udd98\u2503administrator": 878817965284409384,
+        "\ud83c\udd98\u2503network-data": 950887150180773898,
+        "\ud83c\udd98\u2503ph-kernel": 917180781175132160,
+        "\ud83c\udd98\u2503regedit-access": 921616597188235285,
+        "\ud83c\udd98\u2503prefetch": 878816970559070279,
+        "\ud83c\udd98\u2503reg-explorer": 943587996916142131,
+        "\ud83c\udd98\u2503general-gpedit": 1098304070583844895
+    },
+    "\ud83d\udd28\u250aInstant ban": {
+        "\ud83d\udd28\u2503wise": 981302372309557268,
+        "\ud83d\udd28\u2503troubles": 1018593009429909595
+    },
+    "\u2702\u250aAnti-bypass": {
+        "\u2702\u2503alternate-data-streams": 940810189395869696,
+        "\u2702\u2503wmic": 926550520699695194,
+        "\u2702\u2503importcode": 982665217970429992,
+        "\u2702\u2503manual-memory-clear": 1021518979325501500,
+        "\u2702\u2503task-schedule": 1016677594424426507,
+        "\u2702\u2503prefetch-type": 1054152959396696155
+    },
+    "\ud83d\udef0 \u250aconnection": {
+        "\ud83d\udef0\u2503firewall": 856954850297643018,
+        "\ud83d\udef0\u2503firewall-cpl": 915723396204089396,
+        "\ud83d\udef0\u2503hosts": 856954824641609728,
+        "\ud83d\udef0\u2503anydesk": 1020956835949322260
+    },
+    "\ud83d\uddb1\u250aMouse macros": {
+        "\ud83d\uddb1\u250ageneral-detection": 937069441773088808,
+        "\ud83d\uddb1\u2503ajazz": 941388690977079387,
+        "\ud83d\uddb1\u2503asus": 941453672150356079,
+        "\ud83d\uddb1\u2503blackweb": 925422842387005480,
+        "\ud83d\uddb1\u2503bloody7": 871050848711614474,
+        "\ud83d\uddb1\u2503coolermaster": 932540878550081536,
+        "\ud83d\uddb1\u2503corsair": 869662668234063903,
+        "\ud83d\uddb1\u2503glorious": 868874859927703562,
+        "\ud83d\uddb1\u2503kolke": 937058341857919086,
+        "\ud83d\uddb1\u2503logitech": 868874730118201396,
+        "\ud83d\uddb1\u2503mog601-yanpol": 941396758217506916,
+        "\ud83d\uddb1\u2503motospeed": 932539291706462228,
+        "\ud83d\uddb1\u2503marsgaming": 932537379141611560,
+        "\ud83d\uddb1\u2503razer": 941410860537094184,
+        "\ud83d\uddb1\u2503redragon": 868874894975336569,
+        "\ud83d\uddb1\u2503noganet-ayax": 926242722950553700,
+        "\ud83d\uddb1\u2503krom-kolt": 941396011354578964,
+        "\ud83d\uddb1\u2503steelseries": 984544078119202826,
+        "\ud83d\uddb1\u2503roccat": 975120959038165013
+    },
+    "\ud83d\uddb1\u250aExternal Macros": {
+        "\ud83e\uddfe\u2503autohotkey": 896475095881641984,
+        "\ud83e\uddfe\u2503autoit": 926560157519974480
+    },
+    "\ud83d\udcf8\u250aRecording Software": {
+        "\ud83d\udcf8\u2503anydesk": 914995373192388629,
+        "\ud83d\udcf8\u2503desktops": 951079867481477130,
+        "\ud83d\udcf8\u2503extensions": 915378935846551593,
+        "\ud83d\udcf8\u2503ffmpeg": 900528140663812116,
+        "\ud83d\udcf8\u2503gamebar": 914994221834973184,
+        "\ud83d\udcf8\u2503general-recording": 967262338623340594,
+        "\ud83d\udcf8\u2503geforce-experience": 914994098551812126,
+        "\ud83d\udcf8\u2503amd": 914994262008029195,
+        "\ud83d\udcf8\u2503hidden-icons": 914994180080693278,
+        "\ud83d\udcf8\u2503intel": 915378842779127838,
+        "\ud83d\udcf8\u2503psr": 914994349526360096,
+        "\ud83d\udcf8\u2503vlc": 914994327791493180
+    },
+    "\ud83e\uddee\u250aWindows + R": {
+        "\ud83e\uddee\u2503appwiz-cpl": 916488541024948264,
+        "\ud83e\uddee\u2503crashdump": 942876623353561169,
+        "\ud83e\uddee\u2503diskmgmt": 942874777188728912,
+        "\ud83e\uddee\u2503folders": 916486016511148043,
+        "\ud83e\uddee\u2503recycle-bin": 855557294233747456,
+        "\ud83e\uddee\u2503recent": 855557476149887027,
+        "\ud83e\uddee\u2503history": 916488575074308096,
+        "\ud83e\uddee\u2503temp": 855557436643606548,
+        "\ud83e\uddee\u2503prefetch": 855557455740010516,
+        "\ud83e\uddee\u2503usagelogs": 916485460367384596,
+        "\ud83e\uddee\u2503indexed-locations": 992476729987825684,
+        "\ud83e\uddee\u2503virtual-machine": 855557268003225613
+    },
+    "\ud83d\udcc2\u250aExplorer": {
+        "\ud83d\udcc2\u2503nvidia": 932117985022324796,
+        "\ud83d\udcc2\u2503inetcache": 942934469977968690,
+        "\ud83d\udcc2\u2503pca-general-db": 1056816685383946361
+    },
+    "\ud83d\uddc2\u250aEvent viewer": {
+        "\ud83d\uddc2\u2503bitsadmin": 888110922030252052,
+        "\ud83d\uddc2\u2503date-time": 886727848906334208,
+        "\ud83d\uddc2\u2503journal-deletion": 886646619360079872,
+        "\ud83d\uddc2\u2503event-deletion": 886645300993863712,
+        "\ud83d\uddc2\u2503user-change": 886645505663328277,
+        "\ud83d\uddc2\u2503kernel-pnp": 1027654140261838918
+    },
+    "\ud83d\udca0\u2b50\u250aPowershell": {
+        "\ud83d\udca0\u2503get-service": 932107351849312287,
+        "\ud83d\udca0\u2503history": 866744529499848765,
+        "\ud83d\udca0\u2503out-gridview": 966836717367722014,
+        "\ud83d\udca0\u2503scm": 935366972592513115,
+        "\ud83d\udca0\u2503vpn-detector": 912863883239247912,
+        "\ud83d\udca0\u2503bam": 1074284213110583397,
+        "\ud83d\udca0\u2b50\u2503scripts": 981299025733124156
+    },
+    "\ud83d\udcdf\u250aCMD": {
+        "\ud83d\udcdf\u2503diskpart": 869651860343111751,
+        "\ud83d\udcdf\u2503modified-extension": 917795599611473941,
+        "\ud83d\udcdf\u2503service": 968265751465197609,
+        "\ud83d\udcdf\u2503usn-journal": 855557500337913856
+    },
+    "\ud83d\udcce\u250aProcess Hacker": {
+        "\ud83d\udcce\ud83d\udd0d\u2503how-to-dump": 1020134231604736092,
+        "\ud83d\udcce\u23ec\u2503how-to-download": 1020134607334678558,
+        "\ud83d\udcce3\u2503unicode-comparation": 902612787975553035,
+        "\ud83d\udcce3\u2503usb-extraction": 911273287944917002,
+        "\ud83d\udcce\u2503bfe": 929936850875977758,
+        "\ud83d\udcce\u2503cdpusersvc": 855559381705818143,
+        "\ud83d\udcce\u2503csrss": 1021899737303101470,
+        "\ud83d\udcce\u2503csrss-2": 1012352559572336731,
+        "\ud83d\udcce\u2503diagtrack": 855559232681410560,
+        "\ud83d\udcce\u2503dnscache": 855559402021847040,
+        "\ud83d\udcce\u2503dps": 866747016229814273,
+        "\ud83d\udcce\u2503explorer": 934962316288598116,
+        "\ud83d\udcce\u2503pcaclient": 855559329804582932,
+        "\ud83d\udcce\u2503appinfo": 934983020983762964,
+        "\ud83d\udcce\u2503sihost": 917561018916438076,
+        "\ud83d\udcce\u2503extended-pcaclient": 927310154423230465,
+        "\ud83d\udcce\u2503searchindexer": 935015174765707264,
+        "\ud83d\udcce\u2503smartscreen": 929936813144023060,
+        "\ud83d\udcce\u2503latest-start": 937402820792033290,
+        "\ud83d\udcce\u2503taskhostw": 866753273171935232,
+        "\ud83d\udcce\u2503mpssvc": 935300022222868510,
+        "\ud83d\udcce\u2503radeonsoftware": 935661458073743411,
+        "\ud83d\udcce\u2503msmpeng": 928404658110750750
+    },
+    "\ud83d\udd35\u250aREGEDIT": {
+        "\ud83d\udfe6\u2503showjumpview": 947939949473300500,
+        "\ud83d\udfe6\u2503startmenuinternet": 932098250121576548,
+        "\ud83d\udfe6\u2503store": 855559593488678983,
+        "\ud83d\udfe6\u2503appswitched": 947588974048845875,
+        "\ud83d\udfe6\u2503deleted-partitions": 855557415030095914,
+        "\ud83d\udfe6\u2503cidsizemru": 935667657628319804,
+        "\ud83d\udfe6\u2503command-processor": 898232023129419816,
+        "\ud83d\udfe6\u2503disallowrun": 855559866931216455,
+        "\ud83d\udfe6\u2503opensavepidlmru": 855559724018565150,
+        "\ud83d\udfe6\u2503recentdocs": 855559808543490069,
+        "\ud83d\udfe6\u2503hkids": 935664613389926420,
+        "\ud83d\udfe6\u2503archistory": 855559665399627806,
+        "\ud83d\udfe6\u2503tcp-modification": 927736751353643008,
+        "\ud83d\udfe6\u2503directinput": 935235481724133456,
+        "\ud83d\udfe6\u2503lastvisitedpidmru": 855559743401754655,
+        "\ud83d\udfe6\u2503bam": 855559773680435231,
+        "\ud83d\udfe6\u2503muicache": 875408832719908945
+    },
+    "\u2693\u2b50\u250aGeneral Methods": {
+        "\u2693\u2503unicode\u2215invisible-character": 942989953279877210,
+        "\u2693\u2503querybyid": 945535211163222016,
+        "\u2693\u2503ph-virustotal": 949087489480609862,
+        "\u2693\u2503minecraft-instance": 969336880220995604,
+        "\u2693\u2503visited-folders": 962472791309963324,
+        "\u2693\u2503steganography": 963279022505201764,
+        "\u2693\u2503regsvr32\u2215rundll32-injection": 1009856371845500988,
+        "\u2693\u2503feather": 977975110621335575,
+        "\u2693\u2503alts-minecraft": 1016439589361160272,
+        "\u2693\u2503executed-jars": 1025632709244104754,
+        "\u2693\u2503downloads-cache": 1029886020969312367,
+        "\u2693\u2b50\u2503exitcode": 1016675872536797194,
+        "\u2693\u2b50\u2503mft": 968614469410365461,
+        "\u2693\u2b50\u2503velociraptor": 1021853670335336458,
+        "\u2693\u2b50\u2503appcompatcache": 970460716551274526,
+        "\u2693\u2b50\u2503seeshells": 981018067133943818,
+        "\u2693\u2b50\u2503amcache": 970460658153951282,
+        "\u2693\u2b50\u2503srum": 968614609902768148,
+        "\u2693\u2b50\u2503excluded-journal": 968639877950345336,
+        "\u2693\u2b50\u2503registry-explorer": 999080275155898479,
+        "\u2693\u2b50\u2503activitiescache": 970194414322462750,
+        "\u2693\u2b50\u2503\uff04i30": 1023006623930798150,
+        "\u2693\u2b50\u2503journal-2": 1024065314369044550,
+        "\u2693\u2b50\u2503windows-edb": 1027320308614578259,
+        "\u2693\u2b50\u2503fat32-logs": 1048770204655698041,
+        "\u2693\u2b50\u2503liveresponse": 1038235180038627419,
+        "\u2693\u2503setup-api": 1034128941289570377
+    },
+    "\ud83d\udce5\u250aReplaces": {
+        "\ud83d\udce5\u2503dps-replace": 937909523031662612,
+        "\ud83d\udce5\u2503fat32": 937909090133344306,
+        "\ud83d\udce5\u2503sgrm-broker-replace": 937910073315979304,
+        "\ud83d\udce5\u2503journal-replace": 937910010325909574
+    },
+    "\ud83e\ude9f\u250aWindows": {
+        "7\u20e3\u2503windows-7": 1071652458910191707,
+        "8\u20e3\u2503windows-8": 1082331462977732658,
+        "\ud83d\udd1f\u2503windows-10": 1082331583106781246
+    },
+    "\ud83d\udda8\u250aPrograms": {
+        "\ud83d\udda8\u2503appaudioconfig": 967910169734422528,
+        "\ud83d\udda8\u2503dre-files": 935642187142660177,
+        "\ud83d\udda8\u2503everything": 936768940158361610,
+        "\ud83d\udda8\u2503journal-trace": 957848838176116766,
+        "\ud83d\udda8\u2503pcasvc-lister": 928384110509039697,
+        "\ud83d\udda8\u2503easy-journal-viewer": 1014310261659799653,
+        "\ud83d\udda8\u2503shellbagsview": 1025625995321016340,
+        "\ud83d\udda8\u2503winprefetchview": 928384257880121374,
+        "\ud83d\udda8\u2503cachedprogramslist": 1013165127157162118,
+        "\ud83d\udda8\u2b50\u2503hayabusa": 1027676694502445137,
+        "\ud83d\udda8\u2b50\u2503timelineparser": 982457347572121641,
+        "\ud83d\udda8\u2b50\u2503winliveinfo": 982875302361464842,
+        "\ud83d\udda8\u2b50\u2503sgrm-tool": 1014645691840217229,
+        "\ud83d\udda8\u2b50\u2503winfo": 1022186517269053554,
+        "\ud83d\udda8\u2b50\u2503autopsy": 1038235305003732992,
+        "\ud83d\udda8\u2b50\u2503system-informer": 1041866626074693763,
+        "\ud83d\udda8\u2b50\u2503detect-it-easy": 1043329029060706344,
+        "\ud83d\udda8\u2b50\u2503ntfs-streams": 1073699184139571321,
+        "\ud83d\udda8\u2b50\u2503ssc": 1083546232745644152
+    },
+    "\ud83d\udc27\ud83c\uddec \ud83c\uddea \u250aLinux \u00bb General": {
+        "\ud83d\udc27\u2503process-hidder": 915751444437692496,
+        "\ud83d\udc27\u2503xdotool": 913483082919731210,
+        "\ud83d\udc27\u2503environments": 939428123206893579,
+        "\ud83d\udc27\u2503luyten": 905944893594165288,
+        "\ud83d\udc27\u2503recaf": 926238510887878686,
+        "\ud83d\udc27\u2503tmp": 905495225609367552,
+        "\ud83d\udc27\u2503wine": 910544817170301009,
+        "\ud83d\udc27\u2503alts-minecraft": 1016443181606383729
+    },
+    "\ud83d\udc27\u250aLinux \u00bb Environments": {
+        "\ud83d\udc27\u2503mate": 948028059989188608,
+        "\ud83d\udc27\u2503deepin": 956039495160041502,
+        "\ud83d\udc27\u2503xfce": 1013168835660099605,
+        "\ud83d\udc27\u2503cinnamon": 949376718450335804,
+        "\ud83d\udc27\u2503gnome": 1013168995035262976
+    },
+    "\ud83d\udc27\u250aTerminal \u00bb UNIVERSAL": {
+        "\ud83d\udc27\u2503dns-cache": 908942667923226624,
+        "\ud83d\udc27\u2503doble-user": 923315148549161051,
+        "\ud83d\udc27\u2503dpkg": 916744910974091344,
+        "\ud83d\udc27\u2503elapsed-time": 912496776995545118,
+        "\ud83d\udc27\u2503history": 863445337973063721,
+        "\ud83d\udc27\u2503lsdumper": 947318975199588392,
+        "\ud83d\udc27\u2503lsof": 911761499305959474,
+        "\ud83d\udc27\u2503modified-files": 933507940281901106,
+        "\ud83d\udc27\u2503mods-class": 916323239435862036,
+        "\ud83d\udc27\u2503ps": 905213158279491624,
+        "\ud83d\udc27\u2503shell-restarted": 931626907785642004,
+        "\ud83d\udc27\u2503su": 906938409392676904,
+        "\ud83d\udc27\u2503trash": 908958797370896404,
+        "\ud83d\udc27\u2503tree": 916744941747703879,
+        "\ud83d\udc27\u2503unplugged-usb": 927784191591071814,
+        "\ud83d\udc27\u2503gnome-memory-map": 997699270742384670,
+        "\ud83d\udc27\u2503recent-applications": 997699860323115078
+    },
+    "\ud83d\udc27\u250aConnections \u00bb General": {
+        "\ud83d\udc27\u2503chrome": 912754429495754822,
+        "\ud83d\udc27\u2503hosts": 908966571630817311,
+        "\ud83d\udc27\u2503vpn-detector": 912760972022788136,
+        "\ud83d\udc27\u2503nordvpn": 915277760698650654
+    },
+    "\ud83c\udf4e\u250aMacOS": {
+        "\ud83c\udf4e\u2503activity-monitor": 917541295403175966,
+        "\ud83c\udf4e\u2503anydesk": 924785404597653584,
+        "\ud83c\udf4e\u2503executable": 879489023326957648,
+        "\ud83c\udf4e\u2503file-origin": 924787280495915048,
+        "\ud83c\udf4e\u2503finder": 879488340326514709,
+        "\ud83c\udf4e\u2503hidden-apps": 882391163896733726,
+        "\ud83c\udf4e\u2503history": 879491538378424331,
+        "\ud83c\udf4e\u2503logitech-macros": 942996339376160779,
+        "\ud83c\udf4e\u2503recycle-bin": 879486688978681887,
+        "\ud83c\udf4e\u2503search": 950200319445454848,
+        "\ud83c\udf4e\u2503winebottler": 879488064676847718,
+        "\ud83c\udf4e\u2503jnativehook": 1015380586195595304,
+        "\ud83c\udf4e\u2503connected-devices": 1015380619397713921,
+        "\ud83c\udf4e\u2503vpn": 1015380677409132544,
+        "\ud83c\udf4e\u2503preference": 1092997742537756802
+    },
+    "\ud83c\udf4e\u250aTools": {
+        "\ud83c\udf4e\u2503easy-find": 917542203759427634,
+        "\ud83c\udf4e\u2503find-any-files": 980231080676306964,
+        "\ud83c\udf4e\u2503ems": 946575703250444328,
+        "\ud83c\udf4e\u2503recover-files": 969711405437681685
+    },
+    "\ud83c\udf4e \u250asystem information": {
+        "\ud83c\udf4e\u2503applications": 953899117254434857
+    },
+    "\ud83d\udca3\u250aFiveM": {
+        "\ud83d\udca3\u2503side-modding": 938428690298179594,
+        "\ud83d\udca3\u2503skriptgg": 1014942222854148106,
+        "\ud83d\udca3\u2503d3d10": 1014943810142339133,
+        "\ud83d\udca3\u2503imgui": 1026220414063628389
+    },
+    "\ud83e\udde8\u250aRust": {
+        "\ud83e\udde8\u2503test": 933462267968757850,
+        "\ud83e\udde8\ufe65test": 981398243290259466,
+        "\ud83e\udde8\uff1etest": 981398307496689755,
+        "\ud83e\udde8\u300btest": 981398394658521112,
+        "\ud83e\udde8\u3009test": 981398685126656070,
+        "\ud83e\udde8\u30fbtest": 981399179731537950
+    },
+    "\ud83d\udfe9\u250aBedrock": {
+        "\ud83d\udfe9\u2503ambrosial-atani": 934565102139605082,
+        "\ud83d\udfe9\u2503ambrosial-ataraxia": 934209256650059786,
+        "\ud83d\udfe9\u2503ambrosial-horion": 934209281874612275,
+        "\ud83d\udfe9\u2503ambrosial-zephyr": 934186302029578270,
+        "\ud83d\udfe9\u2503cnd": 957855255251521576,
+        "\ud83d\udfe9\u2503horion": 936433621940703282,
+        "\ud83d\udfe9\u2503imeu": 957855277904965652,
+        "\ud83d\udfe9\u2503nitr0": 942329984129855579
+    },
+    "\ufe31\u2694\ufe31Evidence of Execution": {
+        "\ufe31\u2694\ufe31bam": 1083488414164332707,
+        "\ufe31\u2694\ufe31activitiescache": 1083488754704060497,
+        "\ufe31\u2694\ufe31amcache": 1083488862342492180,
+        "\ufe31\u2694\ufe31srudb": 1083489893658931331,
+        "\ufe31\u2694\ufe31csrss": 1083494897874632824,
+        "\ufe31\u2694\ufe31pcaclient": 1083494965923041390,
+        "\ufe31\u2694\ufe31diagtrack": 1083495009690603630,
+        "\ufe31\u2694\ufe31prefetch": 1083495073150414988,
+        "\ufe31\u2694\ufe31mft": 1083495105350094959
+    },
+    "\ufe31\ud83d\udd25\ufe31Possible Bypass": {
+        "\ufe31\ud83d\udd25\ufe31threads": 1083495436012240918,
+        "\ufe31\ud83d\udd25\ufe31tokens": 1098310535512084591
+    }
+}
