@@ -9,12 +9,12 @@
         "url-analysis": 1014221900119015526
     },
     " Antivirus": {
-        "ufe19avg": 1026628937259962398,
-        "ufe19malwarebytes": 1026629128700567614,
-        "ufe19avast": 1026661737849684038
+        "avg": 1026628937259962398,
+        "malwarebytes": 1026629128700567614,
+        "avast": 1026661737849684038
     },
     "Strings": {
-        "ufe19public-strings": 946589250621677618,
+        "public-strings": 946589250621677618,
         "regex": 1008861770661777569
     },
     "Boosters & VIPs": {
