@@ -12,3 +12,4 @@ PLatinum Client:::833a2fe297b1363b2434f951f3720c2f
 Pugware Client:::0736b694699a81da64dd4b8dc816d07b
 Skligga Client:::d24d0ab06bdfcf01a3ca7910a1639b37
 Francium Client:::c3cae2cd8de87fa05089d79038bf45ec
+Raven Client:::34e2a4702b809273d426f5fab2f98990
