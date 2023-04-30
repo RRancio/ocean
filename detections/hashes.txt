@@ -1,0 +1,14 @@
+AidsHack Client:::b113b623e040e0aa742442eccd5d9378
+Pugware Client:::024d59998eb3e7171999aa13aed6d9ce
+Francium Client:::622ccb1b59c97b0d9429766b54c21895
+CWHack Client:::c47ffe144d7a92f6fdd86884ed7b8579
+DemonHack Client:::8a79e54d6e8e554b6ffdbc1b0d200c55
+Francium Client:::d9126b8881a3e7edc2d2e6c03db70502
+Onyx Client:::d8e662197a8687158af02758928a17a3
+Syracuse Client:::60f37434ebeab22b2a59690679679cd2
+Onyx Client:::d40ccc17583a5afd121cc98497e6a138
+Francium Client:::fd9aa2732f9ca0b8dcd6fbb7278be01e
+PLatinum Client:::833a2fe297b1363b2434f951f3720c2f
+Pugware Client:::0736b694699a81da64dd4b8dc816d07b
+Skligga Client:::d24d0ab06bdfcf01a3ca7910a1639b37
+Francium Client:::c3cae2cd8de87fa05089d79038bf45ec
