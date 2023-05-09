@@ -1,8 +1,0 @@
-drip.gg connection since last reboot:::drip.gg
-neverlack.in connection since last reboot:::neverlack.in
-crypp.in connection since last reboot:::crypp.in
-dopp.in connection since last reboot:::dopp.in
-unicorn-hacks.net connection since last reboot:::unicorn-hacks.net
-vape.gg connection since last reboot:::vape.gg
-entropy.club connection since last reboot:::entropy.club
-slapp.in connection since last reboot:::slapp.in
